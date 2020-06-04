@@ -12,6 +12,8 @@ Axway Open Documentation is the new home for Axway product documentation that ha
 
 This website contains the entire documentation set for AMPLIFY API Management 7.7. It also contains documentation for AMPLIFY Central and AMPLIFY Shared Services.
 
+Test change for CLA process
+
 ## AMPLIFY API Management 7.7 documentation
 
 Use the navigation menu on the left to browse all documentation for API Gateway, API Manager, and API Portal. You can also search for specific terms using the search field in the top right corner of any page.
