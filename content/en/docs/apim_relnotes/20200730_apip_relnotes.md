@@ -8,6 +8,8 @@ date: 2020-06-09T00:00:00.000Z
 
 API Portal provides an API consumer-facing interface that you can customize to match your corporate brand. API Portal is a layered product linked to API Manager, and requires both API Manager and API Gateway. For more information, see the API Gateway and API Manager documentation.
 
+Test from non-axway user who has not signed CLA
+
 ## Installation
 
 API Portal is available as a software installation or a virtualized deployment in a Docker container. For more information, see the following options:
